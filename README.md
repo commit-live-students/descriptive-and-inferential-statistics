@@ -27,6 +27,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
+* [Descriptive and Inferential Statistics](https://github.com/commit-live-students/descriptive-and-inferential-statistics/blob/master/notebooks/descriptive_and_inferential_statistics.ipynb)
 
 
 ## Assignments 
