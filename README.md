@@ -5,9 +5,9 @@
 ## Lets Get Rolling - Student Pre-Read
 Before this lesson , we recommend you go through
 
-* [https://github.com/scikit-learn-contrib/categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding)
-* [https://www.kaggle.com/sudalairajkumar/feature-engineering-validation-strategy](https://www.kaggle.com/sudalairajkumar/feature-engineering-validation-strategy)
-* [https://github.com/blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)
+* [Categorical Encoding](https://github.com/scikit-learn-contrib/categorical-encoding)
+* [Feature Engineering Validation Strategy](https://www.kaggle.com/sudalairajkumar/feature-engineering-validation-strategy)
+* [TSFresh](https://github.com/blue-yonder/tsfresh)
 * [Simply Statistics Unconference on the Future of Statistics](https://www.youtube.com/watch?v=Y4UJjzuYjfM&feature=youtu.be)
 * [What is Hypothesis Testing?](https://www.youtube.com/watch?v=VK-rnA3-41c)
 
@@ -19,7 +19,7 @@ After this lesson, you'll be able to
 
 
 ## Agenda
-
+  * Assumptions of Linear Regression
 
 ## Slides
 
@@ -31,7 +31,7 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
-
+  * EDA of 1 Data set by 2 people Each 
 
 
 
