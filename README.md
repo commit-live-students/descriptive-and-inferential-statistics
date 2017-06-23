@@ -19,6 +19,13 @@ After this lesson, you'll be able to
 
 
 ## Agenda
+  * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/thinkstats.pdf)
+  * Really Basic Stuff -
+    * Descriptive Statistics 
+    * Inferential Statistics 
+    * Where is this used in ML?
+    * Why do distributions matter in ML?
+    * 
   * Assumptions of Linear Regression
 
 ## Slides
