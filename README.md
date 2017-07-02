@@ -25,7 +25,6 @@ After this lesson, you'll be able to
     * Inferential Statistics 
     * Where is this used in ML?
     * Why do distributions matter in ML?
-    * 
   * Assumptions of Linear Regression
 
 
