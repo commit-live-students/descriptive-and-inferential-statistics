@@ -28,9 +28,6 @@ After this lesson, you'll be able to
     * 
   * Assumptions of Linear Regression
 
-## Slides
-
-@[gslides](12MfGuRbSPV-Hgtpn1Xmd8GGvwgwbwVSp8Gx1NVKH1Mk)
 
 ## Instructors code alongs
 
