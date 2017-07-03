@@ -32,10 +32,12 @@ After this lesson, you'll be able to
 
 * [Descriptive and Inferential Statistics](https://github.com/commit-live-students/descriptive-and-inferential-statistics/blob/master/notebooks/descriptive_and_inferential_statistics.ipynb)
 
+## Slides
+
+@[gslides](1e2lwHcMPpIY1ZEbr-cxlQ3Veyte94YPL0knHs_XCxiw)
 
 ## Assignments 
   * EDA of 1 Data set by 2 people Each 
 
 
-
-## Resources & Post Reads
+## Resources & Post Reads  
